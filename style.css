@@ -96,7 +96,7 @@ body{
 }
 
 .msg .msgText p{
-    width: 480px;
+    max-width: 480px;
     padding: 1rem 0.6rem;
     border-top-right-radius: 0.8rem;
     border-top-left-radius: 0.8rem;
